@@ -35,8 +35,8 @@ Data science services startup.
 
 ## 💬 Languages
 
-**English**: <br>
-**Hindi**: 
+**English** <br>
+**Hindi**
 <br><br>
 
 ##  Education
