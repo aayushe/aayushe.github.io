@@ -9,8 +9,8 @@ _Machine Learning Engineer based in Bangalore , India_ <br>
 
 **Machine Learning Engineer** @ [Bartleby Technologies Pvt. Ltd.](https://www.bartleby.com/) _(Oct 2020 - Present)_ <br>
 products and services are designed to assist student.
-  - Reasearch and Implement solutions to improve on site deep contextual search.
-  - Build and train ML/DL models in the NLP domain to enhance deep contextual search.
+  - Reasearch and implement Deep Contextual Search to suggest semantically meaningful results which drive up user engagement by 40 per cent.
+  - Finetuned state-of the art models for various GenAI tasks like question answering , traffic prediction , primary country network .
   - **_Technologies used:_** Pytorch , FastAPI , Python , google cloud .
 <br><br>
 
