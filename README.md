@@ -11,7 +11,7 @@ _Machine Learning Engineer based in Bangalore , India_ <br>
 products and services are designed to assist student.
   - Reasearch and implement Deep Contextual Search to suggest semantically meaningful results which drive up user engagement by 40 per cent.
   - Finetuned state-of the art models for various GenAI tasks like question answering , traffic prediction , primary country network .
-  - **_Technologies used:_** Pytorch , FastAPI , Python , google cloud .
+  - **_Technologies used:_** Pytorch ,Huggingface, Gradio, FastAPI , Python , google cloud .
 <br><br>
 
 **Machine Learning Engineer** @ [Tezsure](https://tezsure.com/) _(Feb 2020 - Sept 2020)_ <br>
