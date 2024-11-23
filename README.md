@@ -1,6 +1,6 @@
 # Aayushe Singh 
 
-_Machine Learning Engineer based in Bangalore , India_ <br>
+_Machine Learning Engineer based in Bangalore, India_ <br>
 
 [Email](mailto:aayushe999@gmail.com) / [LinkedIn](https://www.linkedin.com/in/aayushe/) / [GitHub](https://github.com/aayushe) / [Twitter](https://twitter.com/AayusheSingh)
 
@@ -8,12 +8,14 @@ _Machine Learning Engineer based in Bangalore , India_ <br>
 ## Industry Experience
 
 **Machine Learning Engineer** @ [Bartleby Technologies Pvt. Ltd.](https://www.bartleby.com/) _(Oct 2020 - Present)_ <br>
-products and services are designed to assist student.
+products and services are designed to assist students.
   - Research and implement Deep Contextual Search to suggest semantically meaningful results which drove up user engagement by 40 per cent.
-  -  worked on Traffic Network prediction model, which required figuring out data collection, processing strategy, and came up with a suitable network to be trained on this data, after the initial success, again improved the model by giving it the capability of predicting for multiple domains, this project reduced our dependence on manual work of publishing and significantly reduced the time required to publish content, which was a remarkable achievement. Similarly, fine-tuned another model for predicting primary country scores, which significantly improved our convergence rates. 
-  - developed a RAG-based chatbot, leveraging retrieval-augmented generation to ensure accurate, context-aware responses and drive user engagement. 
-
-  - **_Technologies used:_** Pytorch ,Huggingface, Gradio, FastAPI , Python , google cloud .
+  - Devised strategies for data collection and preprocessing, followed by the development of a suitable network architecture tailored to the dataset.
+  - Enhanced the model to support multi-domain predictions, significantly automating the content publishing pipeline and reducing delivery times, marking a major operational efficiency gain.
+  - Fine-tuned a related model for predicting primary country scores, achieving improved convergence rates and higher accuracy.
+  - developed a RAG-based chatbot, leveraging retrieval-augmented generation to ensure accurate, context-aware responses and drive user engagement.
+    
+  - **_Technologies used:_** Pytorch, Huggingface, Gradio, FastAPI, Python, Google Cloud.
 <br><br>
 
 **Machine Learning Engineer** @ [Tezsure](https://tezsure.com/) _(Feb 2020 - Sept 2020)_ <br>
