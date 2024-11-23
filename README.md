@@ -9,7 +9,7 @@ _Machine Learning Engineer based in Bangalore , India_ <br>
 
 **Machine Learning Engineer** @ [Bartleby Technologies Pvt. Ltd.](https://www.bartleby.com/) _(Oct 2020 - Present)_ <br>
 products and services are designed to assist student.
-  - Research and implement Deep Contextual Search to suggest semantically meaningful results which drive up user engagement by 40 per cent.
+  - Research and implement Deep Contextual Search to suggest semantically meaningful results which drove up user engagement by 40 per cent.
   -  worked on Traffic Network prediction model, which required figuring out data collection, processing strategy, and came up with a suitable network to be trained on this data, after the initial success, again improved the model by giving it the capability of predicting for multiple domains, this project reduced our dependence on manual work of publishing and significantly reduced the time required to publish content, which was a remarkable achievement. Similarly, fine-tuned another model for predicting primary country scores, which significantly improved our convergence rates. 
   - developed a RAG-based chatbot, leveraging retrieval-augmented generation to ensure accurate, context-aware responses and drive user engagement. 
 
